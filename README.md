@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ksverchkov
+- 👀 I’m interested in Programming, DevOps
+- 🌱 I’m currently learning at Grades
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me kasverchkov@outlook.com
